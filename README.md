@@ -1,5 +1,68 @@
-👨‍💻 💡Sistema de Gestion para un local Veterinario/Spa🐶 🐱 🐾 
 
+
+
+# 🐾 Sistema de Gestión para Clínica Veterinaria
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-Activo-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Java-Swing-007396?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Licencia-MIT-yellow?style=for-the-badge">
+</p>
+
+---
+
+## 🐶 Descripción
+
+Sistema de gestión para **clínicas veterinarias y pet shop**, desarrollado para facilitar la administración de mascotas, clientes, turnos, productos y ventas.
+
+El sistema permite llevar un control completo del negocio, incluyendo atención médica, servicios de peluquería y gestión comercial.
+
+---
+
+## 🚀 Funcionalidades
+
+- ✅ Gestión (CRUD) de mascotas y dueños  
+- ✅ Administración de turnos (consultas médicas y peluquería)  
+- ✅ Registro y control de pagos  
+- ✅ Generación automática de facturas  
+- ✅ Gestión de productos (CRUD)  
+- ✅ Control de inventario (stock antes y después de ventas)  
+- ✅ Registro de compras y proveedores  
+- ✅ Edición y eliminación de productos en compras  
+- ✅ Generación de tickets/comprobantes de venta  
+- ✅ Opción de impresión o guardado de comprobantes  
+
+---
+
+## 🧩 Módulos del Sistema
+
+- 🐾 **Mascotas y Clientes**  
+- 📅 **Turnos y Citas**  
+- 💰 **Facturación y Pagos**  
+- 📦 **Inventario y Productos**  
+- 🧾 **Ventas y Compras**  
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- ☕ Java  
+- 🖥️ Java Swing (Interfaz gráfica)  
+- 📦 Maven  
+- 🗄️ MySQL  
+- 🔗 JPA (Persistencia de datos)  
+- 📊 JasperReports (Generación de reportes)  
+
+---
+
+## ⚙️ Instalación
+
+### 1. Clonar el repositorio
+```bash
+git clone https://github.com/isairey/ClinicaMascotas.git
+cd ClinicaMascotas
+```
 Funcionalidades:
  <ul>
   <li>✅ Gestión (crud) de la relación entre mascotas y dueños.</li>
