@@ -78,11 +78,7 @@ Funcionalidades:
 🗄️ Y use como Base de Datos MySQL Workbench.<br>
 💻 Y como IDE a Apache NetBeans.
 
-📽 Video del funcionamiento del proyecto (previo a generar el reporte) esta publicado en mi cuenta de Linkedin, la cual aparece aqui en mi perfil.<br>
-📷 Tambien encontraran alli, otra publicacion de solo imagenes del proyecto.✨ Ambos estan en la parte de Destacados.
 
-El proyecto tiene muchas líneas de comentario😅<br>
-Y si tienen algún consejo, comentario o critica constructiva me seria muy útil, muchas gracias! 😊🌙<br>
 
 Vista previa:
 
